@@ -1,7 +1,7 @@
 {
 	"name": "tbn",
-	"website": "https://github.com/gavbn/tbn",
-"repository": "https://github.com/gavbn/tbn",
+	"website": "https://github.com/Aithaks/Kmanst",
+"repository": "https://github.com/Aithaks/Kmans",
 "env": {
     "MASTER_KEY": {
       "description": "The key to administrate the app.",
