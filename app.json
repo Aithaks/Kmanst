@@ -2,4 +2,10 @@
 	"name": "tbn",
 	"website": "https://github.com/gavbn/tbn",
 "repository": "https://github.com/gavbn/tbn",
+"env": {
+    "MASTER_KEY": {
+      "description": "The key to administrate the app.",
+      "required": true
+    }
+}
 }
