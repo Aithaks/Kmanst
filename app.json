@@ -1,11 +1,7 @@
 {
-	"name": "tbn",
+	"name": "bgtef",
 	"website": "https://github.com/Aithaks/Kmanst",
 "repository": "https://github.com/Aithaks/Kmanst",
-"env": {
-    "MASTER_KEY": {
-      "description": "The key to administrate the app.",
-      "required": true
-    }
-}
+
+
 }
