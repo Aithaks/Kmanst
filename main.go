@@ -11,7 +11,7 @@ var VERSION = "0.8.20-src" //set with ldflags
 
 func main() {
 	s := server.Server{
-		Title:      "Cloud Torrent",
+		Title:      "SHajet",
 		Port:       3000,
 		ConfigPath: "cloud-torrent.json",
 	}
